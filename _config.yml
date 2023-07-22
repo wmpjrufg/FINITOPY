@@ -1,4 +1,4 @@
-title: Just the Docs Template
+title: FINITOpy
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs/just-the-docs
 
@@ -7,8 +7,6 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-logo: "/assets/images/FINITOPY.png"
+# logo: "/assets/images/FINITOPY.png"
 
 favicon_ico: "/assets/images/FINITOPY.ico"
-
-title_only_logo: false
