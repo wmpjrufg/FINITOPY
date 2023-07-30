@@ -1,22 +1,16 @@
----
-title: Home
-layout: home
-nav_order: 1
----
-<p align="justify">The FINITOpy FEM toolbox is an easy of use environment for applying the Finite Element Method (FEM). The platform has several elements implemented, besides extra functions for viewing the results.</p>
+<h1>Welcome to Finito FEM Toolbox</h1>
 
-<h1>How to install</h1>
+<table>
+<tr>
+<td style="width:70%;"><p align="justify">The FINITOpy FEM toolbox is an easy of use environment for applying the Finite Element Method (FEM). The platform has several elements implemented, besides extra functions for viewing the results.</p></td>
+<td style="width:30%;"><img src="Logo/FINITO_LOGO.png"/></td>  
+</tr>
+</table>  
 
-<p align="justify">The Finito FEM Toolbox library is available for installation and use in <b>Google Collaboratoy</b>, <b>Jupyter Notebook</b> or other <b>Python development environments</b>.</p>
+<h1>Developers</h1>
 
-<p align="justify">The FINITO algorithms uses Python language secondary libraries. Therefore, it is necessary to install them before starting to use the tool.</p>
+<p align="justify">See <a href="https://wmpjrufg.github.io/FINITOpy/001-VERSION.html" target="_blank">development team</a>.</p>   
 
-You can install FINITO TOOLBOX with:
-```python
-pip install FINITO-TOOLBOX
-# or 
-pip install --upgrade FINITO-TOOLBOX
-```
 <h1>Index</h1>
 
 <dl>
@@ -32,5 +26,17 @@ pip install --upgrade FINITO-TOOLBOX
     <dd><a href="https://wmpjrufg.github.io/FINITOpy/003-COMMON.html" target="_blank">Common libray</a></dd>
 </dl>
 
+<!--Don't delete ths script
+_**Index**_  
+1 - 
+2 - [MEF 1D](https://wmpjrufg.github.io/FINITOpy/MEF1D.html)  
+
+#### Apagar depois
+1.1 - [How to install](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_1-1.html)  
+2.0 - Finito FEM Toolbox   
+2.1 - [How to use MEF1D framewrok](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_2-1.html)   
+2.2 - [How to use MEF2D framewrok Under construction!!!!!!]()  
+#### 
+-->
 
 <p align="justify">Any suggestion or error report in the functioning of the algorithm, please inform us by email: <b><i>wanderlei_junior@ufcat.edu.br</i></b>. We will be happy to improve the platform.</p>
